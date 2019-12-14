@@ -1,0 +1,14 @@
+D:\Course_Labs\myproject\backend.api\backend.api\bin\Debug\netcoreapp2.2\backend.api.deps.json
+D:\Course_Labs\myproject\backend.api\backend.api\bin\Debug\netcoreapp2.2\backend.api.runtimeconfig.json
+D:\Course_Labs\myproject\backend.api\backend.api\bin\Debug\netcoreapp2.2\backend.api.runtimeconfig.dev.json
+D:\Course_Labs\myproject\backend.api\backend.api\bin\Debug\netcoreapp2.2\backend.api.dll
+D:\Course_Labs\myproject\backend.api\backend.api\bin\Debug\netcoreapp2.2\backend.api.pdb
+D:\Course_Labs\myproject\backend.api\backend.api\obj\Debug\netcoreapp2.2\backend.api.csprojAssemblyReference.cache
+D:\Course_Labs\myproject\backend.api\backend.api\obj\Debug\netcoreapp2.2\backend.api.csproj.CoreCompileInputs.cache
+D:\Course_Labs\myproject\backend.api\backend.api\obj\Debug\netcoreapp2.2\backend.api.RazorAssemblyInfo.cache
+D:\Course_Labs\myproject\backend.api\backend.api\obj\Debug\netcoreapp2.2\backend.api.RazorAssemblyInfo.cs
+D:\Course_Labs\myproject\backend.api\backend.api\obj\Debug\netcoreapp2.2\backend.api.AssemblyInfoInputs.cache
+D:\Course_Labs\myproject\backend.api\backend.api\obj\Debug\netcoreapp2.2\backend.api.AssemblyInfo.cs
+D:\Course_Labs\myproject\backend.api\backend.api\obj\Debug\netcoreapp2.2\backend.api.RazorTargetAssemblyInfo.cache
+D:\Course_Labs\myproject\backend.api\backend.api\obj\Debug\netcoreapp2.2\backend.api.dll
+D:\Course_Labs\myproject\backend.api\backend.api\obj\Debug\netcoreapp2.2\backend.api.pdb

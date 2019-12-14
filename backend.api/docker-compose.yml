@@ -1,0 +1,27 @@
+version: '3.2'
+
+services:
+  mydb:
+    image: mileslin/northwnd
+    ports:
+      - "1433:1433"
+    networks:
+      - demonetwork
+    environment:
+      ACCEPT_EULA: "Y"
+  myapi:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    ports:
+      - "8000:80"
+    environment:
+      ConnectionStrings__northwnd_db: "Server=mydb;Database=NORTHWND;User ID=sa;Password=2wsx#EDC;Trusted_Connection=True;Integrated Security=False;"
+    networks:
+      - demonetwork
+    depends_on:
+      - mydb
+
+networks:
+  demonetwork:
+    driver: bridge
